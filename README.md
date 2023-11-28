@@ -1,2 +1,2 @@
-# Coding practices
-- Collaborative filtering for anomaly detection with Python.
+# Coding practice
+- Collaborative filtering with Python.
