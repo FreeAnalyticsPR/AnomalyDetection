@@ -1,2 +1,6 @@
-# A coding practice
-- Collaborative filtering with Python.
+# 異常値検知
+
+### 実装例
+1. [LSTM](https://github.com/Satoru-Shibata-JPN/AnomalyDetection/blob/main/Anomaly%20detection%20with%20Python%20on%20LSTM.ipynb)
+    * Python
+    * Keras
